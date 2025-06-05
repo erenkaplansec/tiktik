@@ -1,6 +1,6 @@
 # Tıktık
 
-NMAP aracı ile post taramasi yapıp ExploitDB'den zafiyet tespiti yapan Python betiği.
+NMAP aracı ile port taramasi yapıp ExploitDB'den zafiyet tespiti yapan Python betiği.
 
 ## Kurulum
 
