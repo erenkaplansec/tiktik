@@ -25,4 +25,4 @@ python3 main.py <target>
 
 
 - [x] ExploitDB çıktısı.
-- [ ] MaxRetryError sorununun giderilmesi.
+- [X] MaxRetryError sorununun giderilmesi.
